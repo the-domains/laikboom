@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.0585392
+color:
+  saturation: 0.6299677
+  lightness: 0.7900108
+  brandStrength: 0.5237674
+  brandColors:
+    - '#C7152E'
+    - '#3A171D'
+    - '#5B6565'
+    - '#FFE2C4'
+    - '#F2B67F'
+  rhythmicContrast: 0.3904404
+name: LAIKBOOM
